@@ -1,11 +1,29 @@
-# Conteúdo referente a apresentação na pasta TRABALHO.
+# R - Pacote Shiny
+- Tutoriais, aplicações e exemplos da utilização do pacote "Shiny" em R 
+- Inclue os códigos em RMarkdown geradores dos arquivos de texto/apresentação 
+- Desenvolvido como objeto de avaliação para disciplina Computação Estatística 2.
 
-Em TRABALHO será encontrada mais 3 pastas, sendo elas:
+## **Introdução**
+Slides utilizados para introduzir a ideia e a estrutura de um aplicativo Shiny. 
 
-Aplicações: Contendo os exemplos usados nos slides.
+## **Tutorial completo**
+Documento com todo conteúdo em formato de tutorial para criação de um aplicativo Shiny.
 
-Slides: Contendo os documento de geração do slide e o pdf para você não precisar baixar
-os arquivos e esperar rodar o markdown.
+## **Aplicações**
+Exemplos (códigos) de como aplicar/utilizar o pacote.
 
-Tutorial: Contendo um documento explicativo gerado em markdown com suas imagens e o
-referido pdf.
+## **Autores**
+- Davi Guerra
+- Eduardo Leopoldino
+- Gabriela Monteiro
+- Jadson Moura
+- Tailine Nonato
+
+## **Resultados**
+Aplicativo Shiny elaborado de forma individual como resultado final do aprendizado sobre o pacote em questão.
+
+## **Links úteis**
+
+-> Informações sobre o pacote: [Shiny from RStudio](https://shiny.rstudio.com/)
+
+-> Cheatsheets: [Pacote Shiny](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf) 
